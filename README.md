@@ -21,8 +21,6 @@
 <img align="left" alt="Visual Studio" width="26px" src="icons/Visual_Studio_2017_Logo.png" />
 <br />
 <br />
-<br />
-<br />
 
 ## Stats:
 <a href="https://github.com/0xInvicta/0xInvicta">
