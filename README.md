@@ -1,15 +1,15 @@
 ### Hi there, I'm Mateusz Peplinski👋
 
 
-## I'm a Cyber Security & Digital Forensics Student, Developer, and Tech enthusiast 👾!!
+## I'm a Cyber Security👨‍💻 & Digital Forensics🕵️ Student, Developer, and Tech enthusiast 👾!!
 
-- 👨‍💻 I’m currently studying at The University Of Portsmouth 🤣
+- 🎓 I’m currently studying at The University Of Portsmouth
 - 🥅 2021 Goals: Learn Assembly  
 - ⚡ Fun fact: Favourite Language - C# -
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools🔧:
 <img align="left" alt="C" width="26px" src="icons/695px-C_Programming_Language.svg.png" />
 <img align="left" alt="C#" width="26px" src="icons/csharp-01.png" />
 <img align="left" alt="ASM" width="26px" src="icons/ASM.png" />
