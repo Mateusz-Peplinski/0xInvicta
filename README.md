@@ -1,13 +1,11 @@
 ### Hi there, I'm Mateusz Peplinski👋
 
 
-## I'm a Cyber Security & Digital Forensics Student, Developer, and Teacher!!
+## I'm a Cyber Security & Digital Forensics Student, Developer, and Tech enthusiast 👾!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👨‍💻 I’m currently studying at The University Of Portsmouth 🤣
+- 🥅 2021 Goals: Learn Assembly  
+- ⚡ Fun fact: Favourite Language - C# -
 
 <br />
 
