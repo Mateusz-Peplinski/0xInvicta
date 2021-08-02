@@ -13,14 +13,15 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio" width="26px" src="icons/Visual_Studio_2017_Logo.png" />]
 [<img align="left" alt="C" width="26px" src="icons/695px-C_Programming_Language.svg.png" />]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img align="left" alt="C#" width="26px" src="icons/csharp-01.png" />]
 [<img align="left" alt="ASM" width="26px" src="icons/ASM.png" />]
-[<img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="JAVA" width="26px" src="icons/java-logo-1.png" />]
+[<img align="left" alt="Python" width="26px" src="icons/Python.png" />]
+[<img align="left" alt="Terminal" width="26px" src="icons/Terminal.png" />]
+[<img align="left" alt="VIM" width="26px" src="icons/544px-Vimlogo.svg.png" />]
+[<img align="left" alt="Visual Studio" width="26px" src="icons/Visual_Studio_2017_Logo.png" />]
 [<img align="left" alt=".NET" width="26px" src="icons/NET.png" />]
-
 <br />
 <br />
 
