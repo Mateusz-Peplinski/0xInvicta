@@ -6,6 +6,7 @@
 - 🎓 I’m currently studying at The University Of Portsmouth
 - 🥅 2021 Goals: Learn Assembly  
 - ⚡ Fun fact: Favourite Language - C# -
+- 👽 Latest Project: RUST  
 
 <br />
 
