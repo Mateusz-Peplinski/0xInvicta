@@ -1,7 +1,7 @@
 ### Hi there, I'm Mateusz Peplinski👋
 
 
-## I'm a Cyber Security👨‍💻 & Digital Forensics🕵️ Student, Developer, and Tech enthusiast 👾!!
+## I'm a Cyber Security👨‍💻 & Digital Forensics🕵️ Student, Developer, and Tech enthusiast!!
 
 - 🎓 I’m currently studying at The University Of Portsmouth
 - 🥅 2021 Goals: Learn Assembly  
