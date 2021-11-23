@@ -8,6 +8,7 @@
 - ⚡ Favourite Language: C# 
 - 👽 Latest Project: Network Detective  
 <br />
+### Try Hack Me Rank
 <img src="https://tryhackme-badges.s3.amazonaws.com/Matpeep1.png" alt="TryHackMe">
 <br />
 
