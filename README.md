@@ -7,7 +7,8 @@
 - 🥅 2021 Goals: Learn Assembly  
 - ⚡ Favourite Language: C# 
 - 👽 Latest Project: Network Detective  
-
+<br />
+<img src="https://tryhackme-badges.s3.amazonaws.com/Matpeep1.png" alt="TryHackMe">
 <br />
 
 ### Languages and Tools🔧:
@@ -22,7 +23,7 @@
 <img align="left" alt="Visual Studio" width="26px" src="icons/Visual_Studio_2017_Logo.png" />
 <br />
 <br />
-<img src="https://tryhackme-badges.s3.amazonaws.com/Matpeep1.png" alt="TryHackMe">
+
 ## Stats:
 <a href="https://github.com/0xInvicta/0xInvicta">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xInvicta&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
