@@ -8,9 +8,6 @@
 - ⚡ Favourite Language: C# 
 - 👽 Latest Project: Network Detective  
 
-### TryHackMe Rank:
-<script src="https://tryhackme.com/badge/226965"></script>
-
 
 ### Languages and Tools🔧:
 <img align="left" alt="C" width="26px" src="icons/695px-C_Programming_Language.svg.png" />
