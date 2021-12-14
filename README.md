@@ -10,7 +10,7 @@
 
 ### TryHackMe Rank:
 <img src="https://tryhackme-badges.s3.amazonaws.com/Matpeep1.png" alt="TryHackMe">
-//
+
 
 ### Languages and Tools🔧:
 <img align="left" alt="C" width="26px" src="icons/695px-C_Programming_Language.svg.png" />
