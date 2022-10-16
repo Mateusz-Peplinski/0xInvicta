@@ -16,7 +16,6 @@
 <img align="left" alt="Python" width="26px" src="icons/Python.png" />
 <img align="left" alt=".NET" width="26px" src="icons/net.png" />
 <img align="left" alt="VIM" width="26px" src="icons/544px-Vimlogo.svg.png" />
-<img align="left" alt="InteliJ" width="26px" src="icons/IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="Visual Studio" width="26px" src="icons/Visual_Studio_2017_Logo.png" />
 <br />
 <br />
